@@ -34,7 +34,7 @@ const About = () => {
                     <div className='col-md-6'>
                     <div data-aos="flip-left">
 
-                        <img src={image} className='img-fluid rounded'></img>
+                        <img src={image} alt="banner-girl" className='img-fluid rounded' ></img>
                     </div>
 
                     </div>
@@ -93,7 +93,7 @@ const About = () => {
                     <div className='col-md-6'>
                     <div data-aos="flip-left">
 
-                        <img src={image2} className='img-fluid rounded'></img>
+                        <img src={image2} alt='banner-girl2' className='img-fluid rounded'></img>
                     </div>
 
                     </div>
